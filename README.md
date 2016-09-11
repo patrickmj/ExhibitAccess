@@ -9,5 +9,5 @@ Usual Omeka plugin installation. Put the code in `plugins/` and go to the admin 
 
 # Usage
 
-Go to the `Exhibit Access` tab on the admin side, and for each exhibit, select how gets special access. Admins and Supers still have all their access. Other users get to edit Exhibits based on those access settings.
+Go to the `Exhibit Access` tab on the admin side, and for each exhibit, select who gets special access. Admins and Supers still have all their access. Other users get to edit Exhibits based on those access settings.
 
