@@ -1,6 +1,8 @@
 # ExhibitAccess
 Omeka plugin to assign limited user access to Exhibits
 
+Based on the more complex [Editorial plugin](https://github.com/omeka/plugin-Editorial), which adds conversation to Exhibit development. This plugin strips out what's needed for that, and focuses just on the access control.
+
 # Installation
 
 Usual Omeka plugin installation. Put the code in `plugins/` and go to the admin side plugins page, hit install.
