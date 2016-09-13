@@ -33,6 +33,7 @@ foreach ($allowedUserRecords as $allowedUserRecord) {
         <?php echo __('(Private)'); ?>
     <?php endif; ?>
     </span>
+    <p><?php echo metadata($exhibit, 'description', array('no_escape' => true)); ?></p>
     <div class='users-select'>
         <?php
             echo $this->formLabel('exhibits[' . $exhibit->id  . ']', __('Users With Access'));
